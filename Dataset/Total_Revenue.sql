@@ -1,0 +1,1 @@
+SELECT SUM(quantity) AS Tota_Pizza_Sold from pizza_sales 
